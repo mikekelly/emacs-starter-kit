@@ -122,7 +122,7 @@
 
 ;; Activate theme
 (load (concat dotfiles-dir "topfunky/theme.el"))
-(color-theme-topfunky)
+(color-theme-solarized-light)
 
 
 (require 'autotest)
